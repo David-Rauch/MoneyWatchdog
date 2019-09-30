@@ -1,8 +1,6 @@
 # MoneyWatchdog
 Application to sort and compare banking account usage to a pre-determined Budget. 
 
-![UI example](
-
 **Money Watchdog Repository Folders**
 * Money($)Watchdog -> A application that takes your downloaded .csv files from your bank and provides a way to categorize, display, compare to pre-set Budget spending plan and upload to a database for personal storage.
 
