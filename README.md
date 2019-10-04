@@ -14,4 +14,4 @@ Application to sort and compare banking account usage to a pre-determined Budget
 
 
 **Money Watchdog Class Diagram**
-![Money Watchdog Class Diagram](https://raw.github.com/David-Rauch/MoneyWatchdog/blob/master/NewClassDiagram.pdf)
+![Money Watchdog Class Diagram](https://raw.github.com/David-Rauch/MoneyWatchdog/blob/master/NewClassDiagram.jpg)
